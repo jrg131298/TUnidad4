@@ -1,0 +1,13 @@
+C:\Users\Arturo\Desktop\Visual Studio Taquero\Arbol_Binario\Arbol_Binario\bin\Debug\Arbol_Binario.exe.config
+C:\Users\Arturo\Desktop\Visual Studio Taquero\Arbol_Binario\Arbol_Binario\bin\Debug\Arbol_Binario.exe
+C:\Users\Arturo\Desktop\Visual Studio Taquero\Arbol_Binario\Arbol_Binario\bin\Debug\Arbol_Binario.pdb
+C:\Users\Arturo\Desktop\Visual Studio Taquero\Arbol_Binario\Arbol_Binario\obj\Debug\Arbol_Binario.csprojResolveAssemblyReference.cache
+C:\Users\Arturo\Desktop\Visual Studio Taquero\Arbol_Binario\Arbol_Binario\obj\Debug\Arbol_Binario.exe
+C:\Users\Arturo\Desktop\Visual Studio Taquero\Arbol_Binario\Arbol_Binario\obj\Debug\Arbol_Binario.pdb
+C:\Users\DELL\Documents\GitHub\4taUnidad\Arbol_Binario\Arbol_Binario\bin\Debug\Arbol_Binario.exe.config
+C:\Users\DELL\Documents\GitHub\4taUnidad\Arbol_Binario\Arbol_Binario\bin\Debug\Arbol_Binario.exe
+C:\Users\DELL\Documents\GitHub\4taUnidad\Arbol_Binario\Arbol_Binario\bin\Debug\Arbol_Binario.pdb
+C:\Users\DELL\Documents\GitHub\4taUnidad\Arbol_Binario\Arbol_Binario\obj\Debug\Arbol_Binario.csprojAssemblyReference.cache
+C:\Users\DELL\Documents\GitHub\4taUnidad\Arbol_Binario\Arbol_Binario\obj\Debug\Arbol_Binario.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\GitHub\4taUnidad\Arbol_Binario\Arbol_Binario\obj\Debug\Arbol_Binario.exe
+C:\Users\DELL\Documents\GitHub\4taUnidad\Arbol_Binario\Arbol_Binario\obj\Debug\Arbol_Binario.pdb
