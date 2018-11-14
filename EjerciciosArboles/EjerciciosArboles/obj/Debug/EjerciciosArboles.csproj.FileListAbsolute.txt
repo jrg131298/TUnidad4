@@ -1,0 +1,7 @@
+C:\Users\DELL\Documents\Estrctura de datos\EjerciciosArboles\EjerciciosArboles\bin\Debug\EjerciciosArboles.exe.config
+C:\Users\DELL\Documents\Estrctura de datos\EjerciciosArboles\EjerciciosArboles\bin\Debug\EjerciciosArboles.exe
+C:\Users\DELL\Documents\Estrctura de datos\EjerciciosArboles\EjerciciosArboles\bin\Debug\EjerciciosArboles.pdb
+C:\Users\DELL\Documents\Estrctura de datos\EjerciciosArboles\EjerciciosArboles\obj\Debug\EjerciciosArboles.csprojAssemblyReference.cache
+C:\Users\DELL\Documents\Estrctura de datos\EjerciciosArboles\EjerciciosArboles\obj\Debug\EjerciciosArboles.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\Estrctura de datos\EjerciciosArboles\EjerciciosArboles\obj\Debug\EjerciciosArboles.exe
+C:\Users\DELL\Documents\Estrctura de datos\EjerciciosArboles\EjerciciosArboles\obj\Debug\EjerciciosArboles.pdb
