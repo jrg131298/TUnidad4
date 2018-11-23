@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\E-4-5EjerciciosPropuestos\E-4-5EjerciciosPropuestos\bin\Debug\E-4-5EjerciciosPropuestos.exe.config
+C:\Users\DELL\source\repos\E-4-5EjerciciosPropuestos\E-4-5EjerciciosPropuestos\bin\Debug\E-4-5EjerciciosPropuestos.exe
+C:\Users\DELL\source\repos\E-4-5EjerciciosPropuestos\E-4-5EjerciciosPropuestos\bin\Debug\E-4-5EjerciciosPropuestos.pdb
+C:\Users\DELL\source\repos\E-4-5EjerciciosPropuestos\E-4-5EjerciciosPropuestos\obj\Debug\E-4-5EjerciciosPropuestos.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\E-4-5EjerciciosPropuestos\E-4-5EjerciciosPropuestos\obj\Debug\E-4-5EjerciciosPropuestos.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\E-4-5EjerciciosPropuestos\E-4-5EjerciciosPropuestos\obj\Debug\E-4-5EjerciciosPropuestos.exe
+C:\Users\DELL\source\repos\E-4-5EjerciciosPropuestos\E-4-5EjerciciosPropuestos\obj\Debug\E-4-5EjerciciosPropuestos.pdb
